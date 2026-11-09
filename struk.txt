@@ -1,0 +1,7 @@
+STRUK PEMBAYARAN RESTORAN
+========================
+Ayam Bakar x2 = Rp 60,000
+Es Teh Manis x2 = Rp 10,000
+----------------------------------------
+TOTAL AKHIR : Rp 83,800
+========================
