@@ -26,7 +26,6 @@ Aplikasi manajemen restoran berbasis Java (Console) untuk tugas Mata Kuliah Pemr
 ```
 Pemograman-Desktop/
 ├── README.md           # Dokumentasi ini
-├── AGENT.md            # Instruksi tugas
 ├── RestoranApp.java    # Entry point & UI utama
 ├── MenuItem.java       # Abstract class + 3 turunan (Makanan, Minuman, Diskon)
 ├── Menu.java           # Kelola daftar menu + file I/O menu.txt
